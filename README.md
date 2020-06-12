@@ -47,7 +47,7 @@ once you cloned the repository, you can separately try the camera and the motor 
 python3 camera.py
 sudo python3 motor.py
 ```
-camera.py should have put images in ../img
+camera.py should create img0.png and img1 png in curent directory
 
 ## executing main script
 
